@@ -6,4 +6,18 @@ Everything in details is explained in the folder Calculator-GUI!
 
 <img align="center" alt="coding" width="400" src="https://github.com/nrkkR/Python_Basic-Calculator-GUI/blob/main/Basic%20Calculator%20GUI.png">
 
+## Technologies Used
+
+- Python
+
+
+
+## Credits
+
+- Created by Rajdeep Mondal
+- GitHub: [nrkkR](https://github.com/nrkkR)
+- LinkedIn: [Rajdeep Mondal](https://www.linkedin.com/in/rajdeep-mondal-a277a9317/)
+
+
+
 <p align="left">Note: The result of the arithmetic expressions is expressed in decimal value for more precison!<p></p>
